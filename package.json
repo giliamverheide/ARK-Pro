@@ -1,6 +1,6 @@
 {
   "name": "@giliam/ark-pro",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A modern dark theme for the ARK desktop wallet.",
   "main": "src/index.js",
   "author": "Giliam Verheide",
@@ -18,8 +18,11 @@
   },
   "keywords": [
     "theme",
-    "template",
+    "dark",
+    "pro",
+    "ark",
     "@arkecosystem",
+    "@giliam",
     "desktop-wallet",
     "plugin"
   ],
