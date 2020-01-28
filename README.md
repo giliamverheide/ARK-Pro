@@ -1,4 +1,4 @@
-![NPM version: 1.0.0](https://img.shields.io/npm/v/@giliam/ark-pro) ![License: MIT](https://img.shields.io/npm/l/@giliam/ark-pro)
+[![NPM version: 1.0.1](https://img.shields.io/npm/v/@giliam/ark-pro)](https://www.npmjs.com/package/@giliam/ark-pro) [![License: MIT](https://img.shields.io/npm/l/@giliam/ark-pro)](https://opensource.org/licenses/MIT)
 
 # ARK Pro
 A modern dark theme for the [ARK desktop wallet](https://github.com/ArkEcosystem/desktop-wallet).
