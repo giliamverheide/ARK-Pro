@@ -27,9 +27,9 @@
   --theme-wallet-overview-border: #dae1e7;
 
   --theme-table-row-hover: var(--theme-page-light);
-  --theme-transaction-sent: #fef4f5;
+  --theme-transaction-sent: var(--theme-page-light);
   --theme-transaction-sent-arrow: #e51317;
-  --theme-transaction-received: #e3fcec;
+  --theme-transaction-received: var(--theme-page-light);
   --theme-transaction-received-arrow: #2db761;
   --theme-send-circle-second-signature: #6c5494;
   --theme-send-circle-second-signature-text: #3b2d54;
