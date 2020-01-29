@@ -386,7 +386,7 @@
   border-radius: 0;
 }
 
-.theme-pro .WalletHeading svg rect {
+.theme-pro .WalletHeading :not(.Identicon) > svg rect {
   fill: var(--theme-transaction-detail-highlight);
 }
 
