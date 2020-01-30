@@ -126,6 +126,11 @@
 
 }
 
+.theme-pro {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 .theme-pro a,
 .theme-pro a:hover {
   color: var(--theme-option-button-text);
